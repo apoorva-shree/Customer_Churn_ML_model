@@ -124,10 +124,16 @@ Business Insights
 ```text
 Customer-Churn-Prediction
 │
-├── Customer_Churn_ML.ipynb
-├── README.md
-├── dataset.csv
-└── requirements.txt
+├── Customer_Churn_ML_final.ipynb           # End-to-end ML pipeline
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv    # Telecom customer dataset
+├── requirements.txt                        # Project dependencies
+├── README.md                               # Project documentation
+├── .gitignore                              # Ignore unnecessary files
+│
+└── Images/
+    ├── confusion_matrix.png                # Confusion Matrix
+    ├── ROC_curve and AUC score.png         # ROC Curve and AUC Analysis
+    └── Top 10 imp features.png             # Top 10 Important Features
 ```
 
 ---
