@@ -42,6 +42,32 @@ The model effectively classifies customer churn and provides meaningful insights
 
 ---
 
+## 📈 Visualizations
+
+### Confusion Matrix
+
+The confusion matrix provides a detailed view of the model's classification performance.
+
+![Confusion Matrix](Images/confusion_matrix.png)
+
+---
+
+### ROC Curve and AUC Score
+
+The ROC curve illustrates the trade-off between the True Positive Rate and False Positive Rate, while the AUC score measures the model's ability to distinguish between churn and non-churn customers.
+
+![ROC Curve and AUC Score](Images/ROC_curve%20and%20AUC%20score.png)
+
+---
+
+### Top 10 Important Features
+
+Feature importance analysis highlights the variables that have the greatest impact on customer churn prediction.
+
+![Top 10 Important Features](Images/Top%2010%20imp%20features.png)
+
+---
+
 ## ⚙️ Machine Learning Pipeline
 
 ```text
