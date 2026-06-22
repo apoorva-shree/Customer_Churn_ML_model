@@ -184,6 +184,8 @@ Developed an end-to-end machine learning solution capable of predicting customer
 
 **Apoorva Shree**
 
+GitHub: https://github.com/apoorva-shree
+
 ---
 
 ### ⭐ If you found this project useful, feel free to star the repository!
