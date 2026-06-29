@@ -1,10 +1,6 @@
 # 📊 Customer Churn Prediction & Retention Analytics
 
 <p align="center">
-<img src="Images/churn_banner.png" width="900">
-</p>
-
-<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
@@ -306,7 +302,9 @@ Built an **end-to-end Machine Learning solution** capable of:
 📌 Aspiring Data Scientist & Machine Learning Engineer
 
 🔗 GitHub: https://github.com/apoorva-shree
+
 🔗 Live app : https://customer-churn-prediction-5ppqck2xqutudhe4chxaff.streamlit.app/
+
 ---
 
 ### ⭐ If you found this project interesting, consider giving it a star!
